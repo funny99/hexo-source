@@ -6,10 +6,7 @@ tags: [收藏]
 
 + web
  - hexo
- 	* [markdown语法1](http://ibruce.info/2013/11/26/markdown/)
- 	* [markdown语法2](http://wowubuntu.com/markdown/)
- 	* [我的本地hexo](http://127.0.0.1:4000/)
- 	* [我的在线hexo](http://funny99.github.io/)
+ 	* [源码管理](http://chitanda.me/2015/06/18/hexo-sync-in-multiple-pc/)
 + tool
 + play
 + other
