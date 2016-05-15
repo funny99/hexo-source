@@ -98,4 +98,3 @@ theme: modernist
 copy一份通用代码，粘贴到你的/themes/modernist/layout/_partial/comment.ejs里面
 
 # 十 遇到的问题
-1、
