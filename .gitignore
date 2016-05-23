@@ -1,5 +1,5 @@
 /.deploy_git
 /public
 _config.yml
-.DS_Store
-.DS_Store?
+*.DS_Store
+*.DS_Store?
